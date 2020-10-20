@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Lost</name>
+
+  <description>
+      Can you help our explorer find her way out of the jungle? Just tap to move along the path to find all the things she needs. Oh, the orange button shows the stuff she has collected. This is a Port of Scratch Game Lost in the Jungle
+  </description>
+
+  <author href="https://build.phonegap.com" email="aman.shahmir.shahaan@gmail.com">
+      ZaheerBrothersStudios
+  </author>
+
+    <icon src="icon.png" />
+
+</widget>
